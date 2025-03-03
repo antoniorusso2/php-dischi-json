@@ -1,0 +1,62 @@
+[
+  {
+    "artist": "Linkin Park",
+    "title": "Hybrid Theory",
+    "year": 2000,
+    "cover": "https://upload.wikimedia.org/wikipedia/en/8/81/Linkin_Park_Hybrid_Theory_Album_Cover.jpg"
+  },
+  {
+    "artist": "Linkin Park",
+    "title": "Meteora",
+    "year": 2003,
+    "cover": "https://upload.wikimedia.org/wikipedia/en/c/c3/Linkin_Park_Meteora_Album_Cover.jpg"
+  },
+  {
+    "artist": "Pink Floyd",
+    "title": "The Dark Side of the Moon",
+    "year": 1973,
+    "cover": "https://upload.wikimedia.org/wikipedia/en/3/3b/Dark_Side_of_the_Moon.png"
+  },
+  {
+    "artist": "Pink Floyd",
+    "title": "The Wall",
+    "year": 1979,
+    "cover": "https://upload.wikimedia.org/wikipedia/en/1/13/Pink_Floyd_The_Wall.jpg"
+  },
+  {
+    "artist": "Slipknot",
+    "title": "Slipknot",
+    "year": 1999,
+    "cover": "https://upload.wikimedia.org/wikipedia/en/2/2f/Slipknot_-_Slipknot2.jpg"
+  },
+  {
+    "artist": "Slipknot",
+    "title": "Iowa",
+    "year": 2001,
+    "cover": "https://upload.wikimedia.org/wikipedia/en/3/33/Slipknot_Iowa.jpg"
+  },
+  {
+    "artist": "Nirvana",
+    "title": "Nevermind",
+    "year": 1991,
+    "cover": "https://upload.wikimedia.org/wikipedia/en/b/b7/NirvanaNevermindalbumcover.jpg"
+  },
+  {
+    "artist": "Nirvana",
+    "title": "In Utero",
+    "year": 1993,
+    "cover": "https://upload.wikimedia.org/wikipedia/en/6/60/In_Utero_%28Nirvana%29_album_cover.jpg"
+  },
+  {
+    "artist": "Pink Floyd",
+    "title": "Wish You Were Here",
+    "year": 1975,
+    "cover": "https://upload.wikimedia.org/wikipedia/en/3/3c/WishYouWereHere-300.jpg"
+  },
+  {
+    "artist": "Slipknot",
+    "title": "Vol. 3: (The Subliminal Verses)",
+    "year": 2004,
+    "cover": "https://upload.wikimedia.org/wikipedia/en/e/e0/Slipknot_-_Vol._3_%28The_Subliminal_Verses%29.jpg"
+  }
+]
